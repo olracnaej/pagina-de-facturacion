@@ -1,0 +1,324 @@
+/* Forzar fondo oscuro en toda la pantalla */
+html, body {
+    background: #041537 !important;
+    min-height: 100vh;
+    color: #F59D00;
+}
+
+.logo {
+    width: 280px;
+}
+
+h1 {
+    color: #F59D00 !important; /* Fuerza el color naranja brillante del logo */
+    font-weight: 900 !important; /* Aplica la negrita máxima (Black) */
+    font-size: 2.5rem;          /* Asegura un buen tamaño de lectura */
+    margin-bottom: 40px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Agrega un sutil relieve para separar del fondo */
+}
+
+
+
+/* Nombres de los espacios (Labels) */
+.form-label {
+    color: #F59D00 !important;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+/* Cajitas celestes con texto oscuro */
+.form-control,
+.form-select {
+    background: #4A90E2 !important;
+    color: #041537 !important;
+    border: 2px solid #F59D00 !important;
+    font-weight: bold !important;
+    padding: 12px;
+}
+
+/* Opciones del menú desplegable */
+.form-select option {
+    background: #0D2C6B !important;
+    color: #F59D00 !important;
+    font-weight: bold !important;
+}
+
+.form-control::placeholder {
+    color: #1a3a75;
+    font-weight: bold;
+}
+
+/* Estado de enfoque (Focus) */
+.form-control:focus,
+.form-select:focus {
+    background: #357ABD !important;
+    color: #041537 !important;
+    border-color: #FFB84D !important;
+    box-shadow: none !important;
+}
+
+/* Campo Total (Solo lectura) */
+.form-control[readonly] {
+    background: #2C609E !important;
+    color: #041537 !important;
+    opacity: 1;
+}
+
+.container {
+    max-width: 1200px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-generar{
+    background:#F59D00 !important;
+    color:#041537 !important;
+    font-weight:bold !important;
+    border:none !important;
+    padding:12px 25px !important;
+}
+
+.btn-generar:hover{
+    background:#FFB84D !important;
+}
+
+.btn-limpiar{
+    background:#2C609E !important;
+    color:white !important;
+    font-weight:bold !important;
+    border:none !important;
+    padding:12px 25px !important;
+}
+
+.btn-limpiar:hover{
+    background:#4A90E2 !important;
+}
+
+.btn-generar,
+.btn-limpiar{
+    min-width:200px;
+}
+
+
+
+
+
+
+
+
+
+
+.resumen-factura{
+    margin-top:50px;
+    padding:30px;
+    text-align:center;
+
+    background:#0D2C6B;
+
+    border:3px solid #F59D00;
+
+    border-radius:15px;
+}
+
+.resumen-factura h2{
+    color:#F59D00;
+    font-weight:900;
+    margin-bottom:25px;
+}
+
+.nombre-cliente{
+    font-size:2rem;
+    font-weight:900;
+    color:white;
+    margin-bottom:25px;
+}
+
+.texto-total{
+    color:#F59D00;
+    font-size:1.3rem;
+    font-weight:bold;
+}
+
+.monto-total{
+    color:white;
+    font-size:3rem;
+    font-weight:900;
+    margin-top:10px;
+}
+
+
+
+
+
+
+
+
+
+.factura-card{
+    width:100%;
+    max-width:450px;
+
+    margin:40px auto;
+
+    padding:20px;
+
+    background:#0D2C6B;
+
+    border:1px solid #F59D00;
+
+    border-radius:20px;
+
+    text-align:center;
+}
+
+.factura-logo{
+    width:90px;
+    margin-bottom:10px;
+}
+
+.titulo-factura{
+    color:#F59D00;
+    font-size:1.6rem;
+    font-weight:900;
+    margin-bottom:8px;
+}
+
+.subtitulo-factura{
+    color:white;
+    font-size:1.2rem;
+    font-weight:900;
+    margin-bottom:10px;
+}
+
+.detalle-factura{
+    color:white;
+    font: size 0.95rem;
+}
+
+.nombre-cliente{
+    margin-top:15px;
+
+    color:white;
+
+    font-size:1.8rem;
+
+    font-weight:900;
+}
+
+.texto-total{
+    margin-top:15px;
+
+    color:#F59D00;
+
+    font-size:1.1rem;
+
+    font-weight:900;
+}
+
+.monto-total{
+    color:white;
+
+    font-size:2.5rem;
+
+    font-weight:900;
+
+    margin-top:5px;
+
+    margin-bottom:15px;
+}
+
+.sinpe-box{
+    width:85%;
+
+    margin:15px auto;
+
+    padding:10px;
+
+    background:#041537;
+
+    border:2px solid #F59D00;
+
+    border-radius:10px;
+
+    color:#F59D00;
+
+    font-size:1rem;
+
+    font-weight:bold;
+}
+
+.mensaje-final{
+    color:white;
+
+    margin-top:5px;
+
+    margin-bottom:5px;
+
+    font-size:0.95rem;
+}
+
+.factura-card p{
+    margin-bottom:8px;
+}
+
+
+
+
+
+
+
+
+
+
+.btn-compartir{
+    background:#25D366 !important;
+
+    color:white !important;
+
+    font-weight:bold !important;
+
+    border:none !important;
+
+    padding:12px 30px !important;
+
+    border-radius:10px !important;
+
+    min-width:200px;
+}
+
+.btn-compartir:hover{
+    background:#1EBE57 !important;
+}
+
+
+
+
+
+
+
+
+
+#btnLogout{
+    font-weight:bold;
+    border:none;
+    border-radius:10px;
+    padding:10px 20px;
+}

@@ -1,0 +1,51 @@
+deployment id
+AKfycbxftlAaR92VHNXWvOPboKKOodBq4LLYIrQgnYLMm_P4lBWUDB4kZMaseEJOjz9X2cM
+
+web app url
+https://script.google.com/macros/s/AKfycbxftlAaR92VHNXWvOPboKKOodBq4LLYIrQgnYLMm_P4lBWUDB4kZMaseEJOjz9X2cM/exec
+
+------------------------
+
+admin@biinlogistics.net
+Biin2026!
+
+-----------------------
+
+deployment id
+AKfycbxftlAaR92VHNXWvOPboKKOodBq4LLYIrQgnYLMm_P4lBWUDB4kZMaseEJOjz9X2cM
+
+web app url
+https://script.google.com/macros/s/AKfycbxftlAaR92VHNXWvOPboKKOodBq4LLYIrQgnYLMm_P4lBWUDB4kZMaseEJOjz9X2cM/exec
+
+library url
+https://script.google.com/macros/library/d/1hJiQD4RHa5_KQXOZ8c_ZrxtPSenJP2Db4vha9gun_sT5RQ7UfH_tnqJC/1
+
+
+****************************
+
+
+deployment id
+AKfycbxftlAaR92VHNXWvOPboKKOodBq4LLYIrQgnYLMm_P4lBWUDB4kZMaseEJOjz9X2cM
+
+web app url
+https://script.google.com/macros/s/AKfycbxftlAaR92VHNXWvOPboKKOodBq4LLYIrQgnYLMm_P4lBWUDB4kZMaseEJOjz9X2cM/exec
+
+
+library url
+https://script.google.com/macros/library/d/1hJiQD4RHa5_KQXOZ8c_ZrxtPSenJP2Db4vha9gun_sT5RQ7UfH_tnqJC/2
+
+
+
+--------------------
+
+deployment id
+
+AKfycbxftlAaR92VHNXWvOPboKKOodBq4LLYIrQgnYLMm_P4lBWUDB4kZMaseEJOjz9X2cM
+
+web app url
+
+https://script.google.com/macros/s/AKfycbxftlAaR92VHNXWvOPboKKOodBq4LLYIrQgnYLMm_P4lBWUDB4kZMaseEJOjz9X2cM/exec
+
+library url
+
+https://script.google.com/macros/library/d/1hJiQD4RHa5_KQXOZ8c_ZrxtPSenJP2Db4vha9gun_sT5RQ7UfH_tnqJC/3
